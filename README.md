@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jonh
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript/C#
-- 💞️ I’m looking to collaborate on some side project like games or apps
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on some side projects like games or apps
 - 📫 How to reach me discord: harryjd09
 - ⚡ Fun fact: I got 100% on my final maths exam
 
