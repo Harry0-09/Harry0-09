@@ -1,4 +1,1 @@
-- Visual Studio Code enjoyer,
-- Learning JavaScript and doing some side projects
-- Only games I play - chess/cs2 (hardly ever)
-- discord: harryjd09
+
