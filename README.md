@@ -1,4 +1,4 @@
-<h1 align="center">Jestem [Janek]</h1>
+<h1 align="center">Jestem Janek</h1>
 <h3 align="center">AI/ML Dev</h3>
 
 <p align="center">
