@@ -2,15 +2,15 @@
 <h3 align="center">AI/ML Dev</h3>
 
 <p align="center">
-  Polska, tworzę AI oraz programuje ciekawe pomysły.
+  Polska,
 </p>
 
 ---
 
-## 🙋‍♂️ O mnie
+## O mnie
 
 * 🔭 Obecnie pracuję nad **Olimpiadą Sztucznej Inteligencji([link](https://www.oai.edu.pl/))**
 * 🌱 Właśnie uczę się **LLM/NLP**
-* 👯 Szukam współpracy przy **projektach wykorzystujących AI (RAG, MCP)**
+* 👯 Szukam współpracy przy **projektach wykorzystujących AI**
 * 📫 Jak się ze mną skontaktować: **.harry01 discord**
 * ⚡ Ciekawostka: **Mam 1800 elo w szachach**
