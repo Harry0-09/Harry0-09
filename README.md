@@ -13,4 +13,4 @@
 * 🌱 Właśnie uczę się **LLM/NLP**
 * 👯 Szukam współpracy przy **projektach wykorzystujących AI**
 * 📫 Jak się ze mną skontaktować: **.harry01 discord**
-* ⚡ Ciekawostka: **Mam 1800 elo w szachach**
+* ⚡ Ciekawostka: **Mam 2000 elo w szachach**
